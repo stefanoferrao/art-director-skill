@@ -12,8 +12,8 @@ One sentence. Example: "Stylized cinematic, chunky low-poly with soft bevels, ha
 ## Palette
 | Role | Color | Notes |
 |------|-------|-------|
-| Key light | #FFC98A | warm |
-| Ambient / fill | #9A8CC8 | cool |
+| Key light | (example: #FFC98A) | replace with your own |
+| Ambient / fill | (example: #9A8CC8) | replace with your own |
 | Accent | | used only for interactables |
 | Forbidden | | e.g. pure saturated neon |
 

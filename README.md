@@ -26,7 +26,9 @@ cp -r art-director-skill/art-director ~/.claude/skills/
 
 **Other agents:** copy `art-director/` into the skills folder your agent reads. Or point the agent at `art-director/SKILL.md` as an instruction file.
 
-Then write `@art` or ask things like "review this cutscene's camera" or "why does this scene look amateur?".
+Then write `@art` or ask things like "review this cutscene's camera" or "why does this scene look amateur?". The skill answers in your language.
+
+> Already have another skill that triggers on `@art`? Rename one of them, or the agent may load either.
 
 ## Customize
 Put your look in `ART_DIRECTION.md` at the root of your project (start from `art-director/templates/ART_DIRECTION.md`). The skill stays generic; your project file decides palette, light and limits.

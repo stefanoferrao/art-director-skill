@@ -28,6 +28,8 @@ cp -r art-director-skill/art-director ~/.claude/skills/
 
 Depois escreva `@art` ou peça coisas como "revise a câmera desta cutscene" ou "por que esta cena parece amadora?". A skill responde no seu idioma.
 
+> Já tem outra skill que dispara com `@art`? Renomeie uma das duas, senão o agente pode carregar qualquer uma.
+
 ## Personalizar
 Coloque o seu look em `ART_DIRECTION.md` na raiz do projeto (comece pelo `art-director/templates/ART_DIRECTION.md`). A skill continua genérica; o arquivo do seu projeto define paleta, luz e limites.
 
